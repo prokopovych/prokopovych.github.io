@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Bogdan Prokopovych</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://prokopovych.github.io/publication-type/2/</link>
+      <atom:link href="https://prokopovych.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://prokopovych.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://prokopovych.github.io/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Leveraging A Lenient Category in Practicing Responsible Leadership: A Case Study</title>
+      <link>https://prokopovych.github.io/publication/jbe-article/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://prokopovych.github.io/publication/jbe-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Artrepreneurship and Collectives: Lessons for Social Entrepreneurs from the Wanderers Art Movement in Imperial Russia</title>
-      <link>/publication/jse-article/</link>
+      <link>https://prokopovych.github.io/publication/jse-article/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/jse-article/</guid>
+      <guid>https://prokopovych.github.io/publication/jse-article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Emergence of New Markets for Environmental Services: The Role of U.S. Shellfish Industry Associations.</title>
-      <link>/publication/oe_article/</link>
+      <link>https://prokopovych.github.io/publication/oe_article/</link>
       <pubDate>Thu, 02 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/oe_article/</guid>
+      <guid>https://prokopovych.github.io/publication/oe_article/</guid>
       <description></description>
     </item>
     

@@ -1,161 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://prokopovych.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication-type/2/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/authors/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/bogdan-prokopovych/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/garett-distefano/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication/jbe-article/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication_types/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/xueting-jiang/</loc>
+    <lastmod>2021-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/ina-ganguli/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication/jse-article/</loc>
     <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bogdan-prokopovych/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/ina-ganguli/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/jse-article/</loc>
-    <lastmod>2020-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/6/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication-type/6/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/davis-plotnieks/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/davis-plotnieks/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/se-chapter/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication/se-chapter/</loc>
     <lastmod>2017-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/deep-learning/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/demo/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/oe_article/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/publication/oe_article/</loc>
     <lastmod>2015-07-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/</loc>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/privacy/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/terms/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://prokopovych.github.io/categories/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/post/</loc>
+  </url><url>
+    <loc>https://prokopovych.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-  </url>
-  
 </urlset>
